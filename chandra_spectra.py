@@ -1,3 +1,8 @@
+"""
+Author: Kevin Luke
+Date created: 24th October 2020
+Date modified: 30th June 2023
+"""
 from astropy.io import fits
 import matplotlib.pyplot as plt
 import numpy as np
