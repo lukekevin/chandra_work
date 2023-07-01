@@ -13,3 +13,9 @@ Take the events fits file (uncompressed) from acis instrument of chandra and obt
 <br />
 ##### Usage
 `python chandra_spectra.py  --args`
+
+### 3) model_to_spectra.py 
+Fit a gaussian model to the energy spectrum from acis instrument's events fits file.
+<br />
+##### Usage
+`python model_to_spectra.py  --args`
