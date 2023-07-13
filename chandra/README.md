@@ -1,6 +1,6 @@
 # chandra_work
 A simple collection of scripts to analyse files from the Chandra x-ray telescope I made during free time during my masters.
-You will need numpy, matplotlib, argparse, gzip, astropy to run these codes.
+You will need numpy, matplotlib, argparse, gzip, astropy to run these codes. The data is at https://cda.harvard.edu/chaser/mainEntry
 
 ### 1) chandra_acis_img_plot.py
 Take the compressed image fits file and process and output the data. Made for acis instrument onboard chandra. 
